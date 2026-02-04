@@ -1,0 +1,9 @@
+{
+  "name": "Syed Muhammad Tahir Ibne Syed Muhammad Mehdi",
+  "description": "A comprehensive Shia Islamic sanctuary providing Quran, Duas, Amaal, and a Daily Prayer Tracker. Dedicated to the legacy of Syed Muhammad Tahir.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
